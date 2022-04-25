@@ -1,0 +1,15 @@
+.navbar{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.employee_card{
+    margin: auto;
+    width: 30%;
+    height: 100px;
+    background-color: silver;
+    border-bottom: 1px solid white;
+}
